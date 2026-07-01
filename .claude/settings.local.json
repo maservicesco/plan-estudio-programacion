@@ -10,7 +10,8 @@
       "Bash(echo \"name: [$\\(git config user.name\\)]\")",
       "Bash(echo \"email: [$\\(git config user.email\\)]\")",
       "Bash(git rev-list *)",
-      "Bash(git ls-remote *)"
+      "Bash(git ls-remote *)",
+      "Bash(node -e \"const fs=require\\('fs'\\); const lineas=fs.readFileSync\\('fase-1-logica/mi-practica/01-variables.js','utf8'\\).split\\('\\\\n'\\); [7,8].forEach\\(n=>{const l=lineas[n-1]; const primerQuote=[...l].find\\(c=>c==='\\\\`'||c===\\\\\"'\\\\\"||c==='\\\\\"'\\); console.log\\('Linea '+n+' -> primer caracter de comilla:', JSON.stringify\\(primerQuote\\), '\\(codigo '+\\(primerQuote?primerQuote.charCodeAt\\(0\\):'?'\\)+'\\)'\\);}\\);\")"
     ]
   }
 }

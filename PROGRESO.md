@@ -14,6 +14,7 @@
 | Fecha | Fase | Qué trabajamos | Estado |
 |-------|------|----------------|--------|
 | 2026-07-01 | 0 | Plan y ruta. Conceptos base (cliente-servidor, variable, HTML/CSS/JS, terminal, Git/GitHub). Ejercicio 0.1: terminal + Git + primer commit + push a GitHub. Diagnosticó y resolvió error "Repository not found". | 🟢 Completa |
+| 2026-07-01 | 1 | Lección 1.1: correr JS con node, `console.log`, variables (`const`/`let`), tipos de dato, template literals. Ejercicio 1.1 (tarjeta de presentación). Resolvió solo: "declarar vs usar variables", SyntaxError por `${valor}` con espacios, `"` vs backtick, y guardar antes de correr. Muy buen instinto de debugging. | 🟢 Completa |
 
 Leyenda: 🟢 Dominado · 🟡 En curso · 🔴 Reforzar
 
