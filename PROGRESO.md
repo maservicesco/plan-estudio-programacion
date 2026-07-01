@@ -3,27 +3,28 @@
 > Aquí trackeamos avance, evaluaciones y notas. Actualizamos al cerrar cada tema/día.
 
 ## Estado general
-- **Fase actual:** Fase 0 — Fundamentos, setup y evaluación
+- **Fase actual:** ✅ Fase 0 COMPLETA → arrancando **Fase 1 — Lógica y fundamentos (JavaScript)**
 - **Inicio:** 2026-07-01
-- **Nivel de partida:** por evaluar (assessment inicial pendiente)
+- **Nivel de partida:** Principiante falso (ver Evaluación inicial abajo)
+- **Repo GitHub:** https://github.com/maservicesco/plan-estudio-programacion
 
 ---
 
 ## Bitácora diaria
 | Fecha | Fase | Qué trabajamos | Estado |
 |-------|------|----------------|--------|
-| 2026-07-01 | 0 | Diseño del plan de estudio y ruta. Setup inicial. | 🟡 En curso |
+| 2026-07-01 | 0 | Plan y ruta. Conceptos base (cliente-servidor, variable, HTML/CSS/JS, terminal, Git/GitHub). Ejercicio 0.1: terminal + Git + primer commit + push a GitHub. Diagnosticó y resolvió error "Repository not found". | 🟢 Completa |
 
 Leyenda: 🟢 Dominado · 🟡 En curso · 🔴 Reforzar
 
 ---
 
-## Checklist Fase 0 — Fundamentos y setup
-- [ ] Entiendo el modelo cliente-servidor / cómo funciona la web
-- [ ] Manejo básico de la terminal
-- [ ] Git y GitHub configurados y entendidos
+## Checklist Fase 0 — Fundamentos y setup ✅ COMPLETA
+- [x] Entiendo el modelo cliente-servidor / cómo funciona la web ✅ 2026-07-01
+- [x] Manejo básico de la terminal (cd, mkdir, echo, ls) ✅ 2026-07-01
+- [x] Git configurado, primer commit y push a GitHub ✅ 2026-07-01
 - [x] Entorno instalado (VS Code v1.126, Node.js v24.16, npm v11.13, Git v2.54, Python v3.12) ✅ 2026-07-01
-- [ ] Evaluación inicial completada
+- [x] Evaluación inicial completada ✅ 2026-07-01
 
 ---
 

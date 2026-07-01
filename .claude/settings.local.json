@@ -3,7 +3,14 @@
     "allow": [
       "Bash(npm --version)",
       "Bash(git --version)",
-      "Bash(code --version)"
+      "Bash(code --version)",
+      "Bash(git config *)",
+      "Bash(echo \"user.name: $\\(git config user.name\\)\")",
+      "Bash(echo \"user.email: $\\(git config user.email\\)\")",
+      "Bash(echo \"name: [$\\(git config user.name\\)]\")",
+      "Bash(echo \"email: [$\\(git config user.email\\)]\")",
+      "Bash(git rev-list *)",
+      "Bash(git ls-remote *)"
     ]
   }
 }
