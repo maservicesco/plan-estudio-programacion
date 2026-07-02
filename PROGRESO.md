@@ -3,7 +3,7 @@
 > Aquí trackeamos avance, evaluaciones y notas. Actualizamos al cerrar cada tema/día.
 
 ## Estado general
-- **Fase actual:** Fase 1 — Lógica y fundamentos (JS). Hecho: variables, tipos, template literals. **Próximo: Lección 1.2 — Condicionales (`if/else`).**
+- **Fase actual:** Fase 1 — Lógica y fundamentos (JS). Hecho: variables, tipos, template literals, condicionales (`if/else/else if`, `&&`/`||`). **Próximo: Lección 1.3 — Bucles (loops).**
 - **Inicio:** 2026-07-01
 - **Nivel de partida:** Principiante falso (ver Evaluación inicial abajo)
 - **Repo GitHub:** https://github.com/maservicesco/plan-estudio-programacion
