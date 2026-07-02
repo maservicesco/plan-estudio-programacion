@@ -3,7 +3,7 @@
 > Aquí trackeamos avance, evaluaciones y notas. Actualizamos al cerrar cada tema/día.
 
 ## Estado general
-- **Fase actual:** ✅ Fase 0 COMPLETA → arrancando **Fase 1 — Lógica y fundamentos (JavaScript)**
+- **Fase actual:** Fase 1 — Lógica y fundamentos (JS). Hecho: variables, tipos, template literals. **Próximo: Lección 1.2 — Condicionales (`if/else`).**
 - **Inicio:** 2026-07-01
 - **Nivel de partida:** Principiante falso (ver Evaluación inicial abajo)
 - **Repo GitHub:** https://github.com/maservicesco/plan-estudio-programacion
