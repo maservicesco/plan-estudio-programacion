@@ -3,7 +3,8 @@
 > Aquí trackeamos avance, evaluaciones y notas. Actualizamos al cerrar cada tema/día.
 
 ## Estado general
-- **Fase actual:** Fase 1 — Lógica y fundamentos (JS). Hecho: variables, tipos, template literals, condicionales (`if/else/else if`, `&&`/`||`). **Próximo: Lección 1.3 — Bucles (loops).**
+- **Fase actual:** Fase 1 — Lógica y fundamentos (JS). Hecho: variables, tipos, template literals, condicionales, bucles (`for`/`while`, `i--`, módulo `%`, bucle + if anidados). **Próximo: Lección 1.4 — Arrays (listas de datos).**
+- **Nota didáctica:** el error del `;` después de `if (...)` le apareció 2 veces (temperatura y filtro de pares). Ya identificado como patrón. Buen instinto de debugging general.
 - **Inicio:** 2026-07-01
 - **Nivel de partida:** Principiante falso (ver Evaluación inicial abajo)
 - **Repo GitHub:** https://github.com/maservicesco/plan-estudio-programacion
